@@ -20,23 +20,8 @@
    pip install pandas 
    pip install numpy
    ```
-
-### Table of contents -
-  * [Introduction to pandas](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part1.ipynb)
-  * [Dataframe Object](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part2.ipynb)
-  * [Reading, Writing CSV and EXCEL file](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part3.ipynb)
-  * [Handling Missing Data part-1](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part4.ipynb)
-  * [Handling Missing Data part-2](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part5.ipynb)
-  * [Groupby : Split, Combine and Apply](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part6.ipynb)
-  * [Concat Dataframes](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part7.ipynb)
-  * [Merging Dataframes](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part8.ipynb)
-  * [Pivot and Pivot table](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part9.ipynb)
-  * [Reshaping Dataframes](https://github.com/dshahid380/Data-analysis-with-pandas/blob/master/pandas_part10.ipynb)
- <br>
   
 ### Introduction to pandas :
-   ![](https://i1.wp.com/www.ugandaletsgotravel.com/holidays/wp-content/uploads/2018/04/holidays-panda-breeding-china-600x400.jpg)
-   <br> **Fig.2** <br><br>
    Pandas is used as data cleaning tool in the field of data science.You can do whatever operation you want in the dataset with this tool.Now question arises, can we clean or change the value in the dataset manually ? Answer is yes we can if size of the dataset is small.What if we have a large dataset then we can not do it manually it will take a lot of time.Pandas makes data science very easy and effective.
    <br>
    To use pandas you need to first import the pandas module in your program
@@ -59,20 +44,4 @@
    d=pd.read_csv('datasets/weather.csv')
    print(d)
    ```
- <br>
- 
-  **For futher tutorial go to the above link given in the Table of contents or click this [link](https://github.com/dshahid380/Data-analysis-with-pandas)**
- 
- 
 
- 
-### References :
- * [Pandas Official documentation](https://pandas.pydata.org/pandas-docs/stable/tutorials.html)
- * [Tutorials points](https://www.tutorialspoint.com/python_pandas)
- * [Datacamp](https://www.datacamp.com/courses/pandas-foundations) 
- 
- <br>
-
-<script defer src="https://use.fontawesome.com/releases/v5.6.3/js/all.js" integrity="sha384-EIHISlAOj4zgYieurP0SdoiBYfGJKkgWedPHH4jCzpCXLmzVsw1ouK59MuUtP4a1" crossorigin="anonymous"></script>   
-<i class="fab fa-github"></i> [dshahid380](https://github.com/dshahid380)
-<i class="fab fa-linkedin"></i>[ Md Shahid](https://www.linkedin.com/in/dshahid380/)
